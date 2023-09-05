@@ -7,6 +7,20 @@
 ### After starting the Jenkins service, browse to http://localhost:8080 and follow the instructions to complete the installation
 
 ## Install Docker
+- Download Docker Desktop on Mac
+https://docs.docker.com/desktop/install/mac-install/
+
+- Double-click Docker.dmg to open the installer, then drag the Docker icon to the Applications folder.
+
+- Double-click Docker.app in the Applications folder to start Docker.
+
+- Select Accept to continue.
+
+- From the installation window, select either:
+  - Use recommended settings (Requires password). This let's Docker Desktop automatically set the necessary configuration settings.
+  - Use advanced settings. You can then set the location of the Docker CLI tools either in the system or user directory, enable the default Docker socket, and enable privileged port mapping. See Settings, for more information and how to set the location of the Docker CLI tools.
+
+- Select Finish. If you have applied any of the above configurations that require a password in step 5, enter your password to confirm your choice.
 
 
 # Fix common issues
